@@ -11,6 +11,7 @@ train.zip
 
 1. train.csv
 
+
 review_id       - Unique ID for each review   
 title           - Title of the game   
 year            - Year in which the review was posted   
@@ -19,7 +20,9 @@ user_suggestion - (Target) Game marked Recommended(1) and Not Recommended(0) by 
 
 
 
+
 2. game_overview.csv
+
 
 title         - Title of the game   
 developer     - Name of the developer of the game   

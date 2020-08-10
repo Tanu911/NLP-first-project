@@ -1,15 +1,14 @@
 # NLP-first-project
 Sentimental Analysis for Game Reviews (AV)
-This is an NLP based project. This project deals with review rating. It uses Tensorflow backend and has a good accuracy. It processes the reviews of games and predicts the sentiment of the user.
+This is an NLP based project. This project deals with review rating. It uses Tensorflow backend and has a good accuracy. It processes the reviews of games and predicts the sentiment of the user.<br>
 About Data Source:
 Steam Platform
 
 
 
-Data Dictionary 
-train.zip
+## Data Dictionary 
 
-1. train.csv
+### 1. train.csv
 
 
 review_id       - Unique ID for each review   
@@ -21,7 +20,7 @@ user_suggestion - (Target) Game marked Recommended(1) and Not Recommended(0) by 
 
 
 
-2. game_overview.csv
+### 2. game_overview.csv
 
 
 title         - Title of the game   
